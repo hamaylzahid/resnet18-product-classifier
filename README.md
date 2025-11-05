@@ -1,14 +1,12 @@
-<h1 align="center">🖼️ ResNet18 Product Classifier</h1>
-<h5 align="center">Classifying product images with Deep Learning</h5>
-
+<h1 align="center">ResNet18 Product Classifier</h1>
 <p  align="center" style="color: #555; font-size: 16px;">
   A practical implementation of <strong>ResNet18</strong> for product image classification.<br>
   This project uses transfer learning to classify products across multiple categories,<br>
   validate model performance, and predict real-world images with high accuracy.
 </p>
 
-<!-- 🔧 Core Technology Stack -->
-<h4 align="center">🔧 Core Technology Stack</h4>
+<!--  Core Technology Stack -->
+<h4 align="center"> Core Technology Stack</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python&logoColor=white" alt="Python Badge" />
@@ -19,17 +17,13 @@
 </p>
 
 <!-- 📄 Project Info -->
-<h4 align="center">📄 Project Info</h4>
+<h4 align="center"> Project Info</h4>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/hamaylzahid/resnet18-product-classifier?style=flat&color=orange&logo=github" alt="Last Commit Badge" />
   <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=flat&logo=vercel&logoColor=white" alt="Status Badge" />
 </p>
 
-<p align="center" style="color: #666; font-size: 15px;">
-  🧩 Built to classify product images accurately – from training to real-world predictions.
-</p>
----
 <!-- Dataset Section -->
 <div style="margin-top:30px;">
     <h2  align="center" style="text-align:center;">Dataset</h2>
@@ -43,12 +37,7 @@
         The dataset is split into <strong>train</strong> and <strong>validation</strong> sets for model training, 
         with an additional <strong>check set</strong> reserved for visual evaluation during deployment.
     </p>
-    <p align="center">
-        The dataset was collected using web scraping techniques and enhanced with resources like the 
-        Amazon Berkeley Objects (ABO) project. It provides a balanced and high-quality dataset for 
-        multi-class product image classification tasks.
-    </p>
-    <p>
+  <p align="center">
         <strong>License:</strong> Apache 2.0 &nbsp; | &nbsp; <strong>Total Images:</strong> 18,175 &nbsp; | &nbsp; <strong>Classes:</strong> 9
     </p>
     <p align="center"  style="text-align:center;">
@@ -59,7 +48,6 @@
 </p>
 
 </div>
----
 <hr style="border:1px solid #ccc; margin-top:20px; margin-bottom:20px;">
 
 <h2 align="center">📖 Table of Contents</h2>
